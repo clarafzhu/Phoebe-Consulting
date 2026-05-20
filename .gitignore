@@ -19,4 +19,4 @@
 /tmp/
 
 # Duplicate root-level logo (asset lives in images/)
-logo-orange.png
+/logo-orange.png
