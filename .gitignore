@@ -1,0 +1,22 @@
+# macOS metadata
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Private keys & certificates (NEVER commit)
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Large archives
+*.zip
+
+# Local dev
+.claude/
+图片/
+/tmp/
+
+# Duplicate root-level logo (asset lives in images/)
+logo-orange.png
